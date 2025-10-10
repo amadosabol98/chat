@@ -52,3 +52,5 @@ Avatar photos curtesy of https://www.pexels.com/ under [CC0 license](https://www
 * [MySQL schema](https://github.com/tinode/chat/tree/master/server/db/mysql/schema.sql)
 * [MongoDB schema](https://github.com/tinode/chat/tree/master/server/db/mongodb/schema.md)
 * [PostgreSQL schema](https://github.com/tinode/chat/tree/master/server/db/postgres/schema.sql)
+
+<!-- Auto-update: 2025-10-10T14:46:21.400328 -->
